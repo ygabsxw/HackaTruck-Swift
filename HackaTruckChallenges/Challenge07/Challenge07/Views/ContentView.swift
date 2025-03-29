@@ -27,9 +27,9 @@ struct ContentView: View {
                         Image("F1")
                             .resizable()
                             .scaledToFit()
-                            .frame(width: 100, height: 100)
+                            .frame(width: 100)
                         Spacer()
-                        NavigationLink(destination: ChampionsView()) {
+                        NavigationLink(destination: TeamView()) {
                             Image(systemName: "car.circle.fill")
                                 .resizable()
                                 .scaledToFit()
@@ -38,6 +38,7 @@ struct ContentView: View {
                         }
                         
                     }
+                    .padding(.bottom, 50)
                     Spacer()
                     ScrollView {
                         ForEach(viewModel.pilots, id:\.self) { pilot in
@@ -50,8 +51,8 @@ struct ContentView: View {
                                             ProgressView()
                                         }
                                         .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
+                                        .frame(width: 100, height: 100)
                                         .scaledToFit()
-                                        .frame(width: 130, height: 130)
                                         .padding()
                                         Text(pilot.nome)
                                             .foregroundStyle(.black)
@@ -63,7 +64,7 @@ struct ContentView: View {
                         }
                     }
                 }
-                .padding()
+                .padding(.horizontal).padding(.top)
                 .onAppear(){viewModel.fetch()}
             }
         }.tint(.red)
