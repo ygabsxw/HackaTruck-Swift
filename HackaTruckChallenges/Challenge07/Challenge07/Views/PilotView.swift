@@ -14,6 +14,29 @@ struct PilotView: View {
     var body: some View {
         ZStack {
             VStack {
+                HStack {
+                    NavigationLink(destination: ChampionsView()) {
+                        Image(systemName: "trophy.circle.fill")
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 35, height: 35)
+                            .foregroundStyle(.realRed)
+                    }
+                    Spacer()
+                    Image("F1")
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: 100)
+                    Spacer()
+                    NavigationLink(destination: TeamView()) {
+                        Image(systemName: "car.circle.fill")
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 35, height: 35)
+                            .foregroundStyle(.realRed)
+                    }
+                    
+                }.padding(.bottom, 50)
                 Spacer()
                 AsyncImage(url: URL(string: pilot?.foto_url ?? "")) { image in
                     image.resizable()
@@ -30,11 +53,11 @@ struct PilotView: View {
                     .padding(.bottom)
                 HStack {
                     Spacer()
-                    Text("Vitorias: \(pilot?.vitorias ?? 0)")
+                    Text("Vitórias: \(pilot?.vitorias ?? 0)")
                         .foregroundStyle(.black)
                         .font(.title)
                     Spacer()
-                    Text("Podios: \(pilot?.podios ?? 0)")
+                    Text("Pódios: \(pilot?.podios ?? 0)")
                         .foregroundStyle(.black)
                         .font(.title)
                     Spacer()
