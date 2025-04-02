@@ -1,9 +1,7 @@
-# HackaTruck-Swift
+# Desafios Realizados no Curso Presencial de Swift - HackaTruck-Swift na IBM
 
-Desafios Realizados no Curso Presencial de Swift - HackaTruck-Swift na IBM
-
-Português
-Durante o curso presencial de Swift oferecido pela HackaTruck-Swift na IBM, participei de diversos desafios que me permitiram aprimorar minhas habilidades em Swift e no desenvolvimento de aplicativos iOS. Abaixo estão os desafios realizados durante o curso:
+## Português
+### Durante o curso presencial de Swift oferecido pela HackaTruck-Swift na IBM, participei de diversos desafios que me permitiram aprimorar minhas habilidades em Swift e no desenvolvimento de aplicativos iOS. Abaixo estão os desafios realizados durante o curso:
 
 Desafio 1.01: Criar 4 quadrados coloridos, um em cada parte da tela do telefone.
 Desafio 1.02: Exibir uma imagem circular e o nome do usuário com cores personalizadas.
@@ -18,8 +16,8 @@ Desafio 7: Criar uma API própria e implementar um CRUD para utilizá-la em um a
 Desafio 8: Desenvolver um aplicativo que consome dados de uma API própria, que recebe informações de um Arduino sobre a umidade da terra.
 Esses desafios foram essenciais para aprofundar meu conhecimento em Swift, além de me proporcionar uma visão prática sobre o desenvolvimento de aplicativos iOS, desde a criação de interfaces até o consumo de APIs externas e a criação de soluções completas.
 
-English
-During the in-person Swift course offered by HackaTruck-Swift at IBM, I participated in various challenges that allowed me to enhance my skills in Swift and iOS app development. Below are the challenges I worked on during the course:
+## English
+### During the in-person Swift course offered by HackaTruck-Swift at IBM, I participated in various challenges that allowed me to enhance my skills in Swift and iOS app development. Below are the challenges I worked on during the course:
 
 Challenge 1.01: Create 4 colored squares, one in each part of the phone screen.
 Challenge 1.02: Display a circular image and the user's name with custom colors.
