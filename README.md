@@ -3,18 +3,18 @@
 ## Português
 ### Durante o curso presencial de Swift oferecido pela HackaTruck-Swift na IBM, participei de diversos desafios que me permitiram aprimorar minhas habilidades em Swift e no desenvolvimento de aplicativos iOS. Abaixo estão os desafios realizados durante o curso:
 
-Desafio 1.01: Criar 4 quadrados coloridos, um em cada parte da tela do telefone.\n
-Desafio 1.02: Exibir uma imagem circular e o nome do usuário com cores personalizadas.\n
-Desafio 1.03: Criar um plano de fundo com a opção de digitar seu nome, salvar e exibi-lo na tela.\n
-Desafio 2: Desenvolver um aplicativo que calcula a velocidade do usuário e retorna qual personagem você seria com base nessa velocidade.\n
-Desafio 3.01: Criar um aplicativo com uma TabView contendo 4 abas diferentes.\n
-Desafio 3.02: Desenvolver um aplicativo com 3 botões, sendo que um deles abre uma página para digitar seu nome e redireciona para uma nova tela.
-Desafio 4: Criar um aplicativo de música inspirado no Spotify.
-Desafio 5: Desenvolver um aplicativo com um mapa que indica a localização de pontos turísticos.
-Desafio 6: Consumir dados de uma API pública para listar todos os personagens presentes nela.
-Desafio 7: Criar uma API própria e implementar um CRUD para utilizá-la em um aplicativo.
-Desafio 8: Desenvolver um aplicativo que consome dados de uma API própria, que recebe informações de um Arduino sobre a umidade da terra.
-Esses desafios foram essenciais para aprofundar meu conhecimento em Swift, além de me proporcionar uma visão prática sobre o desenvolvimento de aplicativos iOS, desde a criação de interfaces até o consumo de APIs externas e a criação de soluções completas.
+<p>Desafio 1.01: Criar 4 quadrados coloridos, um em cada parte da tela do telefone.</p>
+<p>Desafio 1.02: Exibir uma imagem circular e o nome do usuário com cores personalizadas.</p>
+<p>Desafio 1.03: Criar um plano de fundo com a opção de digitar seu nome, salvar e exibi-lo na tela.</p>
+<p>Desafio 2: Desenvolver um aplicativo que calcula a velocidade do usuário e retorna qual personagem você seria com base nessa velocidade.</p>
+<p>Desafio 3.01: Criar um aplicativo com uma TabView contendo 4 abas diferentes.</p>
+<p>Desafio 3.02: Desenvolver um aplicativo com 3 botões, sendo que um deles abre uma página para digitar seu nome e redireciona para uma nova tela.</p>
+<p>Desafio 4: Criar um aplicativo de música inspirado no Spotify.</p>
+<p>Desafio 5: Desenvolver um aplicativo com um mapa que indica a localização de pontos turísticos.</p>
+<p>Desafio 6: Consumir dados de uma API pública para listar todos os personagens presentes nela.</p>
+<p>Desafio 7: Criar uma API própria e implementar um CRUD para utilizá-la em um aplicativo.</p>
+<p>Desafio 8: Desenvolver um aplicativo que consome dados de uma API própria, que recebe informações de um Arduino sobre a umidade da terra.</p>
+<p>Esses desafios foram essenciais para aprofundar meu conhecimento em Swift, além de me proporcionar uma visão prática sobre o desenvolvimento de aplicativos iOS, desde a criação de interfaces até o consumo de APIs externas e a criação de soluções completas.</p>
 
 ## English
 ### During the in-person Swift course offered by HackaTruck-Swift at IBM, I participated in various challenges that allowed me to enhance my skills in Swift and iOS app development. Below are the challenges I worked on during the course:
