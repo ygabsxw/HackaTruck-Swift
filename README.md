@@ -3,11 +3,11 @@
 ## Português
 ### Durante o curso presencial de Swift oferecido pela HackaTruck-Swift na IBM, participei de diversos desafios que me permitiram aprimorar minhas habilidades em Swift e no desenvolvimento de aplicativos iOS. Abaixo estão os desafios realizados durante o curso:
 
-Desafio 1.01: Criar 4 quadrados coloridos, um em cada parte da tela do telefone.
-Desafio 1.02: Exibir uma imagem circular e o nome do usuário com cores personalizadas.
-Desafio 1.03: Criar um plano de fundo com a opção de digitar seu nome, salvar e exibi-lo na tela.
-Desafio 2: Desenvolver um aplicativo que calcula a velocidade do usuário e retorna qual personagem você seria com base nessa velocidade.
-Desafio 3.01: Criar um aplicativo com uma TabView contendo 4 abas diferentes.
+Desafio 1.01: Criar 4 quadrados coloridos, um em cada parte da tela do telefone.\n
+Desafio 1.02: Exibir uma imagem circular e o nome do usuário com cores personalizadas.\n
+Desafio 1.03: Criar um plano de fundo com a opção de digitar seu nome, salvar e exibi-lo na tela.\n
+Desafio 2: Desenvolver um aplicativo que calcula a velocidade do usuário e retorna qual personagem você seria com base nessa velocidade.\n
+Desafio 3.01: Criar um aplicativo com uma TabView contendo 4 abas diferentes.\n
 Desafio 3.02: Desenvolver um aplicativo com 3 botões, sendo que um deles abre uma página para digitar seu nome e redireciona para uma nova tela.
 Desafio 4: Criar um aplicativo de música inspirado no Spotify.
 Desafio 5: Desenvolver um aplicativo com um mapa que indica a localização de pontos turísticos.
