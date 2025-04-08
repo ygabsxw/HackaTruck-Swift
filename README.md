@@ -19,15 +19,15 @@
 ## English
 ### During the in-person Swift course offered by HackaTruck-Swift at IBM, I participated in various challenges that allowed me to enhance my skills in Swift and iOS app development. Below are the challenges I worked on during the course:
 
-Challenge 1.01: Create 4 colored squares, one in each part of the phone screen.
-Challenge 1.02: Display a circular image and the user's name with custom colors.
-Challenge 1.03: Create a background with the option to type your name, save it, and display it on the screen.
-Challenge 2: Develop an app that calculates the user's speed and returns which character you would be based on that speed.
-Challenge 3.01: Build an app with a TabView containing 4 different tabs.
-Challenge 3.02: Create an app with 3 buttons, one of which opens a page to type your name and redirects you to a new screen.
-Challenge 4: Create a music app inspired by Spotify.
-Challenge 5: Develop an app with a map that shows the location of tourist attractions.
-Challenge 6: Consume data from a public API to list all the characters present in it.
-Challenge 7: Create your own API and implement a CRUD to use it in an app.
-Challenge 8: Develop an app that consumes data from a custom API receiving information from an Arduino about soil humidity.
-These challenges were crucial in deepening my knowledge of Swift, while also giving me hands-on experience in building iOS apps, from creating user interfaces to consuming external APIs and developing complete solutions.
+<p>Challenge 1.01: Create 4 colored squares, one in each part of the phone screen.</p>
+<p>Challenge 1.02: Display a circular image and the user's name with custom colors.</p>
+<p>Challenge 1.03: Create a background with the option to type your name, save it, and display it on the screen.</p>
+<p>Challenge 2: Develop an app that calculates the user's speed and returns which character you would be based on that speed.</p>
+<p>Challenge 3.01: Build an app with a TabView containing 4 different tabs.</p>
+<p>Challenge 3.02: Create an app with 3 buttons, one of which opens a page to type your name and redirects you to a new screen.</p>
+<p>Challenge 4: Create a music app inspired by Spotify.</p>
+<p>Challenge 5: Develop an app with a map that shows the location of tourist attractions.</p>
+<p>Challenge 6: Consume data from a public API to list all the characters present in it.</p>
+<p>Challenge 7: Create your own API and implement a CRUD to use it in an app.</p>
+<p>Challenge 8: Develop an app that consumes data from a custom API receiving information from an Arduino about soil humidity.</p>
+<p>These challenges were crucial in deepening my knowledge of Swift, while also giving me hands-on experience in building iOS apps, from creating user interfaces to consuming external APIs and developing complete solutions.</p>
